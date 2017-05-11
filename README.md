@@ -1,2 +1,4 @@
-# osu-theme
-My theme for the game https://osu.ppy.sh/
+# d4rkd0s/osu
+Beatmaps, resources and my theme for the game Osu!
+
+https://osu.ppy.sh/
