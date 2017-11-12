@@ -28,3 +28,10 @@ This is a collection of my beatmaps and themes for the game Osu!
 
 - [Fox Stevenson - Get Strange](https://github.com/d4rkd0s/osu/raw/master/beatmaps/Fox%20Stevenson%20-%20Get%20Strange.osz)
 
+- [Lily Allen - Fuck You](https://github.com/d4rkd0s/osu/raw/master/beatmaps/Lily%20Allen%20-%20Fuck%20You.osz)
+
+- [Pegboard Nerds - Luigi's Mansion](https://github.com/d4rkd0s/osu/raw/master/beatmaps/Pegboard%20Nerds%20-%20Luigi's%20Mansion.osz)
+
+- [Psychic Type - Pocket Monsters](https://github.com/d4rkd0s/osu/raw/master/beatmaps/Psychic%20Type%20-%20Pocket%20Monsters.osz)
+
+
