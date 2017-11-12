@@ -1,17 +1,9 @@
 # d4rkd0s/osu
-Beatmaps, resources and my theme for the game Osu!
 
-https://osu.ppy.sh/
+This is a collection of my beatmaps and themes for the game Osu!
 
+### Themes
 
-## d4rkd0s Theme
+![d4rkd0s-2016](https://github.com/d4rkd0s/osu/raw/master/themes/d4rkd0s-2016.osk)
 
-#### Main menu
-
-![Main Menu](pictures/screenshot1.jpg)
-
-
-#### In-game circles
-
-
-![In game circles](pictures/screenshot2.jpg)
+![d4rkd0s-2017](https://github.com/d4rkd0s/osu/raw/master/themes/d4rkd0s-2016.osk)
