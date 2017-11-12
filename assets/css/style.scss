@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+    color: #fff !important;
+    text-align: center !important;
+    background-color: #ffdddd !important;
+    background-image: linear-gradient(120deg, #992085, #ffdddd) !important;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: #d14fd1 !important;
+}
+
+@media screen and (min-width: 64em) {
+    .page-header {
+        padding: none !important;
+    }
+}
+
+@media screen and (max-width: 64em) and (min-width: 42em) {
+    .page-header {
+        padding: none !important;
+    }
+}
